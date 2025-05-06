@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Random Forest from Scratch & Bagging Analysis
 
 ## Overview
@@ -53,6 +53,4 @@ This project aims to:
   - matplotlib
   - seaborn
 
-=======
-#### The project involves developing a random forest model from scratch and investigating the behavior of this bagging-based ensemble tree structure.
->>>>>>> c3b7a0ffb119ee950ad3db15e323ad9dd29694e1
+
